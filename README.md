@@ -1,16 +1,45 @@
-## Hi there 👋
+Hi there, Mouna here 👋👋
 
-<!--
-**mona861/mona861** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 DevOps & Cloud Engineer | Backend Developer 
 
-Here are some ideas to get you started:
+I know you're here to learn about my work, but first, a little about me:  
+💻 **Tech enthusiast** — Passionate about building infrastructure and backend systems.  
+🌿 **Continuous learner** — Always exploring new technologies and automation techniques.  
+🧩 **Problem solver** — I thrive on optimizing systems and creating efficient solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Summary
+
+I am a DevOps & Cloud Engineer with expertise in designing and automating cloud-native infrastructure on AWS. My background includes backend development, giving me a unique perspective on building reliable, scalable platforms. My work focuses on creating automated, secure, and highly available systems that bridge development and operations seamlessly.
+
+## 🛠 Skills
+
+**Cloud & Infrastructure:** AWS (EKS, S3, VPC, CloudFront, WAF, IAM, EC2, RDS, Lambda, API Gateway)  
+**Containerization & Orchestration:** Docker, Kubernetes, Amazon EKS  
+**IaC & Automation:** Terraform  
+**Backend Development:** API design, server-side logic, database integration  
+**CI/CD:** Jenkins, TeamCity, GitHub Actions, GitOps  
+**Monitoring:** CloudWatch, Prometheus, Grafana
+**Artifact Registries:** Amazon ECR, Docker Hub
+
+## 📌 Featured Projects
+
+* **Secure CloudFront CDN with Terraform**  
+  Deployed an AWS CloudFront distribution with S3 origin, implementing Origin Access Control (OAC) and AWS WAF for security. Featured SSL/TLS encryption, rate limiting, and automated threat detection.
+
+* **Amazon EKS Cluster with Terraform**  
+  Designed and provisioned a highly available Kubernetes cluster on AWS EKS using Terraform, including VPC networking, IAM roles, node groups, and integrated monitoring solutions.
+
+* **Backend Development Projects**  
+  Built scalable backend services with focus on API development, database optimization, and cloud-native architecture patterns.
+
+## 📚 Learning & Growth
+
+* Exploring advanced **Kubernetes** orchestration and **GitOps** workflows.
+* Continuously improving expertise in **AWS security** best practices and **Infrastructure as Code**.
+
+## 📫 Connect with Me
+
+* **LinkedIn:** [linkedin.com/in/mouna-shuja-b7bb0863](https://www.linkedin.com/in/mouna-shuja-b7bb0863)
+* **GitHub:** [github.com/mona861](https://github.com/mona861)
+
+⭐️ *Passionate about automation, reliability, and building secure cloud infrastructure. Open to collaborating on DevOps, cloud-native, and backend development projects.*
