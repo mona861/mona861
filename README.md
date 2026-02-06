@@ -15,9 +15,9 @@ I am a DevOps & Cloud Engineer with expertise in designing and automating cloud-
 
 **Cloud & Infrastructure:** AWS (EKS, S3, VPC, CloudFront, WAF, IAM, EC2, RDS, Lambda, API Gateway)  
 **Containerization & Orchestration:** Docker, Kubernetes, Amazon EKS  
-**IaC & Automation:** Terraform  
+**IaC & Automation:** Terraform, Cloudformation  
 **Backend Development:** API design, server-side logic, database integration  
-**CI/CD:** Jenkins, TeamCity, GitHub Actions, GitOps  
+**CI/CD:** Jenkins, TeamCity, GitHub Actions, ArgoCD  
 **Monitoring:** CloudWatch, Prometheus, Grafana
 **Artifact Registries:** Amazon ECR, Docker Hub
 
