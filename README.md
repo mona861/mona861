@@ -23,15 +23,15 @@ I am a DevOps & Cloud Engineer with expertise in designing and automating cloud-
 
 ## 📌 Featured Projects
 
-* **Secure CloudFront CDN with Terraform**  
-  *<u>*Description:</u>**
+* **___Secure CloudFront CDN with Terraform___m**  
+  **Description:**
   Deployed an AWS CloudFront distribution with S3 origin, implementing Origin Access Control (OAC) and AWS WAF for security. Featured SSL/TLS encryption, rate limiting, and automated threat detection.
   <br/>
   **Repo Link**:
     * [github.com/mona861/cloudfront-terraform](https://github.com/mona861/cloudfront-terraform)
 
 
-* **<u>ArgoCD & Amazon EKS Cluster</u>**  
+* **ArgoCD & Amazon EKS Cluster**  
   **Description:**
   Designed and provisioned a highly available Kubernetes cluster on AWS EKS using Terraform, including VPC networking, IAM roles and node groups.
   Using ArgoCD as GitOps for deploying to an EKS cluster.
