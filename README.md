@@ -23,7 +23,7 @@ I am a DevOps & Cloud Engineer with expertise in designing and automating cloud-
 
 ## 📌 Featured Projects
 
-* **___Secure CloudFront CDN with Terraform___m**  
+* **Secure CloudFront CDN with Terraform**  
   **Description:**
   Deployed an AWS CloudFront distribution with S3 origin, implementing Origin Access Control (OAC) and AWS WAF for security. Featured SSL/TLS encryption, rate limiting, and automated threat detection.
   <br/>
